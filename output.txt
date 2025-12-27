@@ -1,0 +1,20 @@
+
+RESUME SUMMARY
+--------------
+A motivated enterprenyure with strong knowledge of java.
+Currently at a mid level, eager to apply skills in real-world projects,
+learn new technologies, and contribute effectively to team success.
+
+
+COVER LETTER
+------------
+Dear Hiring Manager,
+
+I am writing to apply for the position of enterprenyure.
+With skills in java and a mid level of experience,
+I am confident in my ability to contribute positively to your organization.
+
+Thank you for considering my application.
+
+Sincerely,
+Candidate
